@@ -294,7 +294,7 @@
 /*** Team ***/
 .team{
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     padding: 1rem;
 }
